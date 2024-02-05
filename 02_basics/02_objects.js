@@ -1,5 +1,5 @@
 // singleton
-// it is created using Object.create like a class instance
+// it is created using Object.create(or using new) like a class instance
 
 // object literals
 
